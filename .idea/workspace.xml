@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="651d671f-aa6f-4a09-ab67-74f81d34c578" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corn_leaf_disease_cnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/corn_leaf_disease_cnn.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
